@@ -2,6 +2,6 @@
 <!--suppress AndroidElementNotAllowed -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.auth0.react">
+    >
     <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
